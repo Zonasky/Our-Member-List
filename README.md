@@ -3,7 +3,7 @@
 <h2> Founders: skyss0fly & Inaayat </h2>
 <h2> Developers: skyss0fly & Inaayat </h2>
 
-<p> want to Apply as our developer? see below how you can get in touch! </p>
+<p> want to Apply as our developer or tester? see below how you can get in touch! </p>
 <h3> Get In Touch: </h3>
 <nav>
 <ul>
