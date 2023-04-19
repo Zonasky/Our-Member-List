@@ -10,7 +10,7 @@
 
 <a href= "https://discord.gg/rmdAUjCZT4"> Discord Server </a>
 <p><b> skyss0fly#3428 </b></p><p></p>
-<p><b> Inaay#0001 </b></p><p></p>'
+<p><b> Inaa#0001 </b></p><p></p>
 
 </ul>
 </nav>
